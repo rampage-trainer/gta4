@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Rampage Trainer — GTA5 Beta",
-  description: "Modern, minimal site for Rampage Trainer beta releases, downloads, and changelogs.",
+  title: "Rampage Trainer — GTA4",
+  description: "Modern, minimal site for Rampage Trainer preview releases, downloads, and changelogs.",
 }
 
 export default function RootLayout({
