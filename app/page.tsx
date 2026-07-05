@@ -87,7 +87,7 @@ export default function Home() {
         </div>
 
         <div id="changelog" className="grid gap-6">
-          <h2 className="text-xl font-semibold tracking-tight">Requirement</h2>
+          <h2 className="text-xl font-semibold tracking-tight">Requirements</h2>
           <ul className="space-y-2 text-sm leading-relaxed list-disc pl-5">
             {changelogItems.map((item, idx) => (
               <li key={idx}>{item}</li>
