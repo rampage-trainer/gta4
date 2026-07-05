@@ -1,6 +1,9 @@
 {
-  "Preview": [
-    ""
+  "1.2.0.59": [
+    "Aru's ScriptHook (ScriptHook.dll)",
+    "ASI Loader (dinput8.dll)",
+    "Compatibility Patch for GTA IV: Complete Edition (aCompleteEditionHook.asi)",
+    "Optional but highly recommended: Fusion Fix"
   ]
 }
 
